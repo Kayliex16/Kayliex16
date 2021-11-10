@@ -47,4 +47,6 @@ Figma
 MDN     ![image](https://user-images.githubusercontent.com/87666164/140549106-a703ca9b-0f0e-4a3e-b256-751c703c3af7.png)
 Youtube      ![image](https://user-images.githubusercontent.com/87666164/140549120-3197a816-818a-484d-a213-2e35550341e9.png)
 Stack overflow    ![image](https://user-images.githubusercontent.com/87666164/140549131-41e81642-c7f6-4211-8d4c-aa1c506a26c5.png)
-Github
+Github             ![image](https://user-images.githubusercontent.com/87666164/141045753-ce6b49e7-81d6-4166-9fa0-dd51eb93ce39.png)
+CSS Tricks
+
