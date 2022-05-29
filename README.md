@@ -1,5 +1,5 @@
 
-# Kaylie-Me’s Profile
+# Kaylie-Mae’s Profile
  
 Hi, my name is Kaylie-Mae, and I am a student of business administration,I am still learning and training to become a front-end web developer. 
 I always get more motivated and improve my coding skills. I am a fast learner and enjoy coding for websites.
